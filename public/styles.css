@@ -1276,6 +1276,14 @@ video {
     background-color: transparent;
   }
 
+  .lg\:text-\[18px\] {
+    font-size: 18px;
+  }
+
+  .lg\:text-\[16px\] {
+    font-size: 16px;
+  }
+
   .lg\:text-\[\#FC00B5\] {
     --tw-text-opacity: 1;
     color: rgb(252 0 181 / var(--tw-text-opacity));
